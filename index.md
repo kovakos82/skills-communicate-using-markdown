@@ -5,6 +5,10 @@
 ##### Header5
 ###### Header6
 
+- [x] task1
+- [ ] task2
+- [ ] task3
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
